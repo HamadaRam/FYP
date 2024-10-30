@@ -1,1 +1,1 @@
-This is my final year project. In the vis pdf file, you will find the visualization of the collected data set using PoweBi. Currently, I am working on the report. Also you can find the poster for this project in FYP 2 (poster).pptx.pdf it summarizes the project and also it has the findings.
+This is my final year project. In the vis pdf file, you will find the visualization of the collected data set using PowerBI. Also you can find the poster for this project in FYP 2 (poster).pptx.pdf it summarizes the project and gives findings. 
